@@ -1,0 +1,28 @@
+src/data/routers.yaml
+  s_62c6454dd872e6::t_6dc63c28857278 1-18,20-21
+  s_62c6454dd872e6::t_e25f02c9097d95 19
+src/data/routers.json
+  s_62c6454dd872e6::t_7c5bf318d63a54 21
+  s_62c6454dd872e6::t_17367c2ad8c3aa 5,8,11-19
+  s_62c6454dd872e6::t_7b311ae453df87 2-4,6-7,9-10,20,22-23
+src/data/routerMetrics/leaderboard.json
+  s_62c6454dd872e6::t_69349d9b2b24a7 3-12
+src/data/routerData.ts
+  s_62c6454dd872e6::t_19e641f72b789e 197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "6d7e43e65364661b0b937080ee32cc593d3f52a0",
+  "prompts": {},
+  "sessions": {
+    "s_62c6454dd872e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4497e045-1ee1-41f7-8ad2-cd95248d8925",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "steventohme <steven@workweave.ai>"
+    }
+  }
+}
