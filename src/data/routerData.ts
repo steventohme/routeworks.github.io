@@ -194,7 +194,7 @@ const routersWithRanks = rawRouterData.map(router => {
   };
 });
 
-routersWithRanks.sort((a, b) => b._averageScore - a._averageScore);
+routersWithRanks.sort((a, b) => b.metrics.arenaScore - a.metrics.arenaScore);
 routersWithRanks.forEach((router, index) => {
   router.metrics.overallRank = index + 1;
 });

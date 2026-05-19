@@ -1,5 +1,16 @@
 [
   {
+    "Router Name": "Weave Router",
+    "Arena Score": 74.61,
+    "Optimal Selection Score": 1.38,
+    "Optimal Cost Score": 12.27,
+    "Optimal Acc. Score": 100.00,
+    "Robustness Score": 79.05,
+    "Latency Score": null,
+    "Accuracy": 78.43,
+    "Cost per 1k": 0.92
+  },
+  {
     "Router Name": "R2-Router",
     "Arena Score": 71.60,
     "Optimal Selection Score": 32.38,
