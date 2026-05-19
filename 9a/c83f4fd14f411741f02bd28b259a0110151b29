@@ -1,0 +1,19 @@
+src/data/routerData.ts
+  s_62c6454dd872e6::t_b77e805cd02a90 197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "9ac83f4fd14f411741f02bd28b259a0110151b29",
+  "prompts": {},
+  "sessions": {
+    "s_62c6454dd872e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4497e045-1ee1-41f7-8ad2-cd95248d8925",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "steventohme <steven@workweave.ai>"
+    }
+  }
+}
